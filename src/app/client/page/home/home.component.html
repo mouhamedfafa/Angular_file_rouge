@@ -1,0 +1,22 @@
+<section class="hero is-success is-fullheight flex-wrap">
+ 
+    <div class="hero-body"  >
+      <div class="" >
+        <section  class="section is-medium bg-dark ">
+        
+            <div class="card mb-4" *ngFor="let post of posts$ | async">
+       
+            <div class="d-flex p-2 "  >
+                 <app-card [posts]="post"> </app-card>
+            </div>
+        
+    
+</div>
+  
+
+          </section>
+      </div>
+    </div>
+
+
+  </section>

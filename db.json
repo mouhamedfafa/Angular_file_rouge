@@ -1,0 +1,36 @@
+{
+  "posts": [
+      { 
+          "id": 1,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCTk_w9WoPI5yVht1uKyO9_DlI8aUOehlxzrdV-ESj8-8S5Z3G1vckyGBlNK529qVews&usqp=CAU",
+          "date": "January 1, 2022",
+          "categories": ["bongo","kony","lien"],
+          "titre": "Welcome to Blog Post!",
+          "description": "Science is an enterprise that should be on Earth."
+      },
+      { 
+          "id": 2,
+          "image":"https://st2.depositphotos.com/1000339/5752/i/600/depositphotos_57527967-stock-photo-burger-and-french-fries.jpg",
+          "date": "January 1, 2022",
+          "categories": ["bongo","kony","lien"],
+          "titre": "Welcome to Blog 2 Post!",
+          "description": "Science is an enterprise that should be on Earth."
+      },
+      { 
+          "id": 3,
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqCTk_w9WoPI5yVht1uKyO9_DlI8aUOehlxzrdV-ESj8-8S5Z3G1vckyGBlNK529qVews&usqp=CAU",
+          "date": "January 1, 2022",
+          "categories": ["bongo","kony","lien"],
+          "titre": "Welcome to Blog 3 Post!",
+          "description": "Science is an enterprise that should be on Earth."
+      },
+      { 
+          "id": 4,
+          "image":"https://st2.depositphotos.com/1000339/5752/i/600/depositphotos_57527967-stock-photo-burger-and-french-fries.jpg",
+          "date": "January 1, 2022",
+          "categories": ["bongo","kony","lien"],
+          "titre": "Welcome to Blog 4 Post!",
+          "description": "Science is an enterprise that should be on Earth."
+      }
+  ]
+}
